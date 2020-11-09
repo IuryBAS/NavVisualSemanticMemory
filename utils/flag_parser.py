@@ -77,7 +77,7 @@ def parse_arguments():
     parser.add_argument(
         "--ep_save_freq",
         type=int,
-        default=300,#5e5,
+        default=5e5,
         help="save model after this # of training episodes (default: 1e+4)",
     )
     parser.add_argument(
@@ -88,7 +88,7 @@ def parse_arguments():
     )
     parser.add_argument(
         "--save-model-dir",
-        default="trained_models/lars_training/Multi_models/Kitchen",
+        default="trained_models",
         metavar="SMD",
         help="folder to save trained navigation",
     )
