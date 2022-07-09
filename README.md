@@ -25,8 +25,8 @@ Presented at 17th IEEE Latin American Robotics Symposium - LARS 2020
 
 
 ## Setup
-
-1. Install the requirements listed in ``requirements.txt``. If you use pip, run ``pip install -r requirements.txt``
+0. Python 3.5 required;
+1. Install the requirements listed in ``requirements.txt``. If you use pip, run ``pip install -r requirements.txt``;
 2. Download the [data](https://prior-datasets.s3.us-east-2.amazonaws.com/savn/data.tar.gz) in the project directory. Unrar with:
 
     ``tar -xzf data.tar.gz``
@@ -79,9 +79,13 @@ To train a model of type GCN-MLP:
 
 ## Citation
 
-    @inproceedings{santoseromero2020,
-	title={Deep Reinforcement Learning for Visual Semantic Navigation with Memory},
-	author={Santos, Iury and Romero, Roseli},
-	booktitle={Proceedings of the IEEE Latin American Robotics Symposium / Brazilian Symposium of Robotics},
-	pages={1--6},
-	year={2020}}
+    @article{santos2022deep,
+	  title={A Deep Reinforcement Learning Approach with Visual Semantic Navigation with Memory for Mobile Robots in Indoor Home Context},
+	  author={Santos, Iury B de A and Romero, Roseli AF},
+	  journal={Journal of Intelligent \& Robotic Systems},
+	  volume={104},
+	  number={3},
+	  pages={1--21},
+	  year={2022},
+	  publisher={Springer}
+	}
