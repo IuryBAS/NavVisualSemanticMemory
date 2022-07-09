@@ -7,7 +7,9 @@ By Iury Santos and Roseli Romero
 
 Presented at 17th IEEE Latin American Robotics Symposium - LARS 2020
 
-[Paper Link - Open Reading Access](https://rdcu.be/cHIJZ) [Video](https://youtu.be/1hDLtMXapbg)
+[Paper Link - Open Reading Access](https://rdcu.be/cHIJZ) 
+
+[Video](https://youtu.be/1hDLtMXapbg)
 
 
 ## Results
